@@ -1,1 +1,0 @@
-# Python-kurz-2023
